@@ -1,0 +1,10 @@
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\dto\AvailabilityCheckResponseDto.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\dto\AvailabilityCheckRequestDto.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\dto\ProductResponseDto.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\exception\ProductNotFoundException.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\repository\ProductRepository.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\service\ProductService.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\ProductServiceApplication.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\controller\ProductController.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\entity\Product.java
+C:\Users\6114049\Downloads\Microservicios Prueba\microservicios\product-service\src\main\java\com\microservices\productservice\dto\ProductRequestDto.java

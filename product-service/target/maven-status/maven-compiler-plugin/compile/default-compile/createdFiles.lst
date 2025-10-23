@@ -1,0 +1,10 @@
+com\microservices\productservice\dto\AvailabilityCheckResponseDto.class
+com\microservices\productservice\dto\ProductResponseDto.class
+com\microservices\productservice\exception\ProductNotFoundException.class
+com\microservices\productservice\controller\ProductController.class
+com\microservices\productservice\ProductServiceApplication.class
+com\microservices\productservice\dto\AvailabilityCheckRequestDto.class
+com\microservices\productservice\dto\ProductRequestDto.class
+com\microservices\productservice\service\ProductService.class
+com\microservices\productservice\entity\Product.class
+com\microservices\productservice\repository\ProductRepository.class

@@ -1,0 +1,17 @@
+com\microservices\orderservice\exception\ProductNotAvailableException.class
+com\microservices\orderservice\entity\Order$OrderStatus.class
+com\microservices\orderservice\exception\OrderNotFoundException.class
+com\microservices\orderservice\client\ProductServiceClient.class
+com\microservices\orderservice\service\OrderService$ProductValidationResult.class
+com\microservices\orderservice\dto\OrderRequestDto.class
+com\microservices\orderservice\controller\OrderController.class
+com\microservices\orderservice\service\OrderService.class
+com\microservices\orderservice\dto\OrderResponseDto.class
+com\microservices\orderservice\repository\OrderRepository.class
+com\microservices\orderservice\client\ProductServiceClient$AvailabilityCheckResponse.class
+com\microservices\orderservice\OrderServiceApplication.class
+com\microservices\orderservice\dto\OrderItemRequestDto.class
+com\microservices\orderservice\entity\OrderItem.class
+com\microservices\orderservice\dto\OrderItemResponseDto.class
+com\microservices\orderservice\entity\Order.class
+com\microservices\orderservice\dto\ProductDto.class
